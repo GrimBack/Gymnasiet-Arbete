@@ -42,6 +42,7 @@
             this.NameTB.Name = "NameTB";
             this.NameTB.Size = new System.Drawing.Size(186, 20);
             this.NameTB.TabIndex = 0;
+            this.NameTB.TextChanged += new System.EventHandler(this.NameTB_TextChanged);
             // 
             // contextMenuStrip1
             // 

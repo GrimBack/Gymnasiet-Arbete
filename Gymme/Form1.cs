@@ -26,6 +26,9 @@ namespace Gymme
 
         }
 
+        private void NameTB_TextChanged(object sender, EventArgs e)
+        {
 
+        }
     }
 }
